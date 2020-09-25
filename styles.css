@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:wght@300;700&display=swap');
+*{
+    font-family: 'Open Sans Condensed';
+    font-weight: 300;
+    font-size: 20px;
+}
+h1{
+    color: salmon;
+    font-size: 40px;
+    font-weight: 700;
+}
+h2{
+    color: salmon;
+    font-size: 30px;
+    font-weight: 700;
+}
+#date{
+    color: lightgray;
+    font-size: 10px;
+}
+.done{
+    color: beige;
+    background-color: rgb(32, 92, 32);
+}
+.doing{
+    color: beige;
+    background-color: rgb(155, 108, 20);
+}
+.not-done{
+    color: beige;
+    background-color: rgb(19, 19, 134);
+}
+.cancelled{
+    color: beige;
+    background-color: rgb(128, 21, 21);
+}
